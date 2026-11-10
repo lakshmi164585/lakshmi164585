@@ -1,16 +1,61 @@
-## Hi there 👋
+Hi, I'm Lakshmi  👋
 
-<!--
-**lakshmi164585/lakshmi164585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I work with AWS cloud infrastructure, Linux administration, application deployments and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to build reliable, scalable and automated cloud infrastructure using DevOps tools.
+
+🛠️ Technical Skills
+
+Cloud: AWS (EC2, S3, IAM, VPC, Security Groups, CloudWatch)
+
+Operating Systems: Linux, Ubuntu
+
+Version Control: Git, GitHub
+
+CI/CD: Jenkins, Jenkins Pipeline
+
+Containers: Docker, Kubernetes
+
+Infrastructure as Code: Terraform
+
+Configuration Management: Ansible
+
+Web & Application Servers: Nginx, PM2
+
+Monitoring: Prometheus, Grafana
+
+Scripting: Bash, Python (learning)
+
+🚀 Featured Projects
+
+AWS S3 Static Website Hosting
+
+Jenkins CI/CD Pipeline
+
+Dockerized Application Deployment
+
+Terraform AWS Infrastructure
+
+Kubernetes Application Deployment
+
+Ansible Configuration Management
+
+🎯 Currently Learning
+
+End-to-end CI/CD automation
+
+AWS Infrastructure Automation
+
+Docker and Kubernetes
+
+DevSecOps integration
+
+AI-assisted DevOps
+
+📫 Connect With Me
+
+LinkedIn: My LinkedIn
+
+GitHub: My GitHub
